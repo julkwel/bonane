@@ -5,5 +5,3 @@ A Pen created at CodePen.io. You can find this one at https://codepen.io/julkwel
 The tutorial covers keeping track of and looping over objects contained in arrays, tracking mouse clicks and coordinates, animating fireworks to specific target coordinates, and making beautiful particle explosions through the use of randomly generated values.
 
 Feel free to play with the config variables in the JS code to have fun with the experiment.
-
-This was made by: https://twitter.com/jackrugile
