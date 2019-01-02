@@ -9,3 +9,14 @@ canvas {
 	cursor: crosshair;
 	display: block;
 }
+
+.text{
+	color: white;
+	position: absolute;
+	top: 25%;
+	text-align: center;
+	display: block;
+	width: 100%;
+	font-family: 'Montserrat',Sans-Serif;
+	font-size: 1.5rem
+}
