@@ -1,7 +1,7 @@
 
 /* basic styles for black background and crosshair cursor */
 body {
-	background: #000;
+	background: #000!important;
 	margin: 0;
 }
 

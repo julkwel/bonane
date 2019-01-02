@@ -5,15 +5,25 @@
     <title>Afomanga</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800&amp;subset=cyrillic-ext,latin-ext" rel="stylesheet">
-    <link rel="icon" type="image/png" href="https://avatars1.githubusercontent.com/u/30557565NG.png">
 </head>
 
 <body>
 <canvas id="canvas"></canvas>
 <div class="text">
     <h1>Bonne année 2019</h1><br>
-    <span>De la part de RAJERISON Julien</span>
+    <span>De la part de
+        <p id="name"></p>
+    </span>
 </div>
+<script  src="js/jquery-3.3.1.min.js"></script>
 <script  src="js/index.js"></script>
+<script>
+    $.getJSON('USER.json',function (element) {
+        for (const nous of element) {
+            let nom = nous.name;
+            document.getElementById('name').innerHTML += '<span>' + nom + '' + ',' +'</span>';
+        }
+    })
+</script>
 </body>
 </html>
