@@ -9,24 +9,25 @@
 let gasyYear = new Date().getFullYear()
 document.querySelector('#year').innerText = gasyYear
 document.title += ` ${gasyYear}`
-function formatMessage (message) {
-  if (message) {
-    return message.replace('{{YEAR}}', gasyYear)
-  } else {
-    return `Bonne année ${gasyYear} !`
-  }
+
+function formatMessage(message) {
+    if (message) {
+        return message.replace('{{YEAR}}', gasyYear)
+    } else {
+        return `Bonne année ${gasyYear} !`
+    }
 }
 
-function isActive (i) {
-  return i === 0 ? 'active' : ''
+function isActive(i) {
+    return i === 0 ? 'active' : ''
 }
 
 $.getJSON('USER.json', function (elements) {
-  elements.forEach(function (nous, i) {
-    document.getElementById('carousel-indicators').innerHTML += `
+    elements.forEach(function (nous, i) {
+        document.getElementById('carousel-indicators').innerHTML += `
               <li data-target="#quote-carousel" data-slide-to="${i}" class="${isActive(i)}" title="${nous.name}"></li>
     `
-    document.getElementById('name').innerHTML += `
+        document.getElementById('name').innerHTML += `
             <div class="item ${isActive(i)}">\n
                <blockquote>\n
                   <div class="row">\n
@@ -40,5 +41,5 @@ $.getJSON('USER.json', function (elements) {
                     </div>\n
                </blockquote>\n
             </div>`
-  })
+    })
 })
