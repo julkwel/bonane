@@ -2,13 +2,6 @@
 // not supported in all browsers though and sometimes needs a prefix, so we need a shim
 
 // When the DOM is ready, run this function
-$(document).ready(function() {
-	//Set the carousel options
-	$('#quote-carousel').carousel({
-		pause: true,
-		interval: 4000,
-	});
-});
 
 window.requestAnimFrame = ( function() {
 	return window.requestAnimationFrame ||

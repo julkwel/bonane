@@ -1,15 +1,39 @@
 /* global $ */
 /** https://standardjs.com/ */
+
 /**
  * RAJERISON Julien
  * 01 Janvier 2019
- * @type {number}
  */
 
+/**
+ * Init carousel
+ */
+$(document).ready(function() {
+    $('#quote-carousel').carousel({
+        pause: true,
+        interval: 4000,
+    });
+});
+
+/**
+ * Get date
+ * @type {number}
+ */
 let gasyYear = new Date().getFullYear()
+
+/**
+ * Query html selector add date
+ * @type {number}
+ */
 document.querySelector('#year').innerText = gasyYear
 document.title += ` ${gasyYear}`
 
+/**
+ * Message check
+ * @param message
+ * @returns {*}
+ */
 function formatMessage(message) {
     if (message) {
         return message.replace('{{YEAR}}', gasyYear)
@@ -18,10 +42,18 @@ function formatMessage(message) {
     }
 }
 
+/**
+ * Check slide active
+ * @param i
+ * @returns {string}
+ */
 function isActive(i) {
     return i === 0 ? 'active' : ''
 }
 
+/**
+ * Fetch json file
+ */
 $.getJSON('USER.json', function (elements) {
     elements.forEach(function (nous, i) {
         document.getElementById('carousel-indicators').innerHTML += `
