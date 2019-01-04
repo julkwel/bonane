@@ -9,7 +9,7 @@
 /**
  * Init carousel
  */
-$(document).ready(function() {
+$(document).ready(function () {
     $('#quote-carousel').carousel({
         pause: true,
         interval: 4000,
@@ -30,7 +30,7 @@ document.querySelector('#year').innerText = gasyYear
 document.title += ` ${gasyYear}`
 
 /**
- * Message check
+ * Prevent message on null, undefined, '', 0, NaN, false
  * @param message
  * @returns {*}
  */
@@ -52,6 +52,32 @@ function isActive(i) {
 }
 
 /**
+ * Prevent image on null, undefined, '', 0, NaN, false
+ * @param image
+ * @returns {*}
+ */
+function checkImage(image) {
+    if (image) {
+        return image;
+    } else {
+        return 'https://avatars1.githubusercontent.com/u/30557565';
+    }
+}
+
+/**
+ * Prevent image on null, undefined, '', 0, NaN, false
+ * @param nous
+ * @returns {*}
+ */
+function checkName(nous) {
+    if (nous) {
+        return nous;
+    } else {
+        return 'https://avatars1.githubusercontent.com/u/30557565';
+    }
+}
+
+/**
  * Fetch json file
  */
 $.getJSON('USER.json', function (elements) {
@@ -64,11 +90,11 @@ $.getJSON('USER.json', function (elements) {
                <blockquote>\n
                   <div class="row">\n
                        <div class="col-sm-3 text-center">\n
-                           <img class="img-circle" src="${nous.image}" style="width: 100px;height:100px;">\n
+                           <img class="img-circle" src="${checkImage(nous.image)}" style="width: 100px;height:100px;">\n
                        </div>\n
                         <div class="col-sm-9">\n
                             <p>${formatMessage(nous.message)}</p>\n
-                            <small>  ${nous.name}  </small>\n
+                            <small>  ${checkName(nous.name)}  </small>\n
                         </div>\n
                     </div>\n
                </blockquote>\n
