@@ -1,12 +1,42 @@
- [
-    {"name" : "RAJERISON Julien"},
-    {"name" : "Mamy RAOBY"},
-    {"name" : "RATOVOARISON Bruno Marcelino"},
-    {"name" : "Chrys RAKOTONIMANANA"},
-    {"name": "RAKOTONDRATOMPO Bako Harry"},
-    {"name": "RAKOTONDRATOMPO Bako Harry"},
-    {"name": "MIRAN SYLLA"},
-    {"name" : "RAKOTONDRABE Ny Antso"},
-    {"name": "RANDRI Vony"},
-    {"name": "RAZAFINTSIALONINA Mamy"}
- ]
+[
+  {
+    "name": "RAJERISON Julien",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "Mamy RAOBY",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "RATOVOARISON Bruno Marcelino",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "Chrys RAKOTONIMANANA",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "RAKOTONDRATOMPO Bako Harry",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "RAKOTONDRATOMPO Bako Harry",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "MIRAN SYLLA",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "RAKOTONDRABE Ny Antso",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "RANDRI Vony",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  },
+  {
+    "name": "RAZAFINTSIALONINA Mamy",
+    "image": "https://avatars1.githubusercontent.com/u/30557565"
+  }
+]
