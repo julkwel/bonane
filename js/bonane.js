@@ -19,7 +19,7 @@ $.getJSON('USER.json', function (element) {
                            <img class="img-circle" src="${gasy_image}" style="width: 100px;height:100px;">\n
                        </div>\n
                         <div class="col-sm-9">\n
-                            <p>Bonne année !  ${gasy_year} </p>\n
+                            <p>Bonne année  ${gasy_year} !</p>\n
                             <small>  ${gasy_nom}  </small>\n
                         </div>\n
                     </div>\n
