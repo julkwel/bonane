@@ -9,6 +9,6 @@ Manaova fork , pull request raha manana proposition ianao.
 
 ## Fitsipika hifampitondrana amin'ny soratra
 
-Ny variables rehetra dia miantomboka amin'ny ```gas_nom_variable```
+Ny variables rehetra dia miantomboka amin'ny ```gasy_nom_variable```
 
 Ezahina ny externalisation css sy js rehetra
