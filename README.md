@@ -1,7 +1,7 @@
 ## Bonne année 2019 from Madagascar
 Andeha hifampirary soa amin'izao taona vaovao ,
 
-Raha te hirary soa ny hafa iana dia apetraho ao amin'ny USER.json ny anaranao manaraka ny architecture an' izay efa misy ao,
+Raha te hirary soa ny hafa ianao dia apetraho ao amin'ny USER.json ny anaranao manaraka ny architecture an' izay efa misy ao,
 
 Afaka atao ny manova tanteraka manatsara an'ity code ity ary misokatra hoan'ny rehetra.
 
