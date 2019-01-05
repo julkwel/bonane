@@ -73,7 +73,7 @@ function checkName(nous) {
     if (nous) {
         return nous;
     } else {
-        return 'https://avatars1.githubusercontent.com/u/30557565';
+        return 'From Madagascar';
     }
 }
 
@@ -83,7 +83,9 @@ function checkName(nous) {
 $.getJSON('USER.json', function (elements) {
     elements.forEach(function (nous, i) {
         document.getElementById('carousel-indicators').innerHTML += `
-              <li data-target="#quote-carousel" data-slide-to="${i}" class="${isActive(i)}" title="${nous.name}"></li>
+              <li data-target="#quote-carousel" data-slide-to="${i}" class="${isActive(i)}" title="${nous.name}">
+                <img src="${nous.image}" alt="">
+              </li>
     `
         document.getElementById('name').innerHTML += `
             <div class="item ${isActive(i)}">\n
