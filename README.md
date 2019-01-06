@@ -7,6 +7,8 @@ Afaka atao ny manova tanteraka manatsara an'ity code ity ary misokatra hoan'ny r
 
 Manaova fork , pull request raha manana proposition ianao.
 
+Raha mbola tsy tena havanana amin'ny git ianao dia indro misy instruction tsotra [ato](https://github.com/julkwel/first-contribution-setup)
+
 ## Fitsipika hifampitondrana amin'ny soratra
 
 Ny variables rehetra dia miantomboka amin'ny ```gasy_nom_variable```
