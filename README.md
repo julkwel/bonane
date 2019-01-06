@@ -12,3 +12,20 @@ Manaova fork , pull request raha manana proposition ianao.
 Ny variables rehetra dia miantomboka amin'ny ```gasy_nom_variable```
 
 Ezahina ny externalisation css sy js rehetra
+
+___
+Raha hanampy ny anaranao ianao dia ao amin'ny USER.json ```"name":"ny_anaranao"```
+
+Raha hanampy ny sarinao ianao dia ao amin'ny USER.json ```"image":"lien_image_github_anao"```
+
+Raha hanampy hafatra ianao dia ao amin'ny USER.json ```"message":"hafatra_zarainao"```
+
+Raha hanampy ny url github anao ianao dia ao amin'ny USER.json ihany ```"username":"github_username"```
+
+
+*Fanamarihana*
+- Ny tsara dia izay information anao ato amin'ny github no apetraka mba tsy hiovaova satria ny image github constant na dia manolo sary aza ianao.
+
+- Ezaho ny manaraka izay zavatra efa nataon'ny teo aloha.
+
+- Hatsarao foana ny coden-tsika 
