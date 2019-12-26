@@ -90,7 +90,7 @@ function checkName(nous) {
  */
 function checkGithub(link) {
     if (link) {
-        return baseUrl+link;
+        return baseUrl + link;
     } else {
         return 'https://github.com/';
     }
