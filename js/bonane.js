@@ -1,14 +1,8 @@
-/* global $ */
-/** https://standardjs.com/ */
+/* Global $ (https://standardjs.com)
 
-/**
- * RAJERISON Julien
- * 01 Janvier 2019
- */
+// RAJERISON Julien 01 Janvier 2019
 
-/**
- * Init carousel
- */
+// Init carousel
 $(document).ready(function () {
     $('#quote-carousel').carousel({
         pause: true,
@@ -18,18 +12,21 @@ $(document).ready(function () {
 
 /**
  * Github base_url
+ *
  * @type {string}
  */
 const baseUrl = 'https://github.com/';
 
 /**
  * Get date
+ *
  * @type {number}
  */
 let gasyYear = new Date().getFullYear();
 
 /**
  * Query html selector add date
+ *
  * @type {number}
  */
 document.querySelector('#year').innerText = gasyYear;
@@ -37,7 +34,9 @@ document.title += ` ${gasyYear}`;
 
 /**
  * Prevent message on null, undefined, '', 0, NaN, false
+ *
  * @param message
+ *
  * @returns {*}
  */
 function formatMessage(message) {
@@ -50,7 +49,9 @@ function formatMessage(message) {
 
 /**
  * Check slide active
+ *
  * @param i
+ *
  * @returns {string}
  */
 function isActive(i) {
@@ -59,7 +60,9 @@ function isActive(i) {
 
 /**
  * Prevent image on null, undefined, '', 0, NaN, false
+ *
  * @param image
+ *
  * @returns {*}
  */
 function checkImage(image) {
@@ -72,7 +75,9 @@ function checkImage(image) {
 
 /**
  * Prevent image on null, undefined, '', 0, NaN, false
+ *
  * @param nous
+ *
  * @returns {*}
  */
 function checkName(nous) {
@@ -85,7 +90,9 @@ function checkName(nous) {
 
 /**
  * Check github link
+ *
  * @param link
+ *
  * @returns {*}
  */
 function checkGithub(link) {
@@ -96,9 +103,7 @@ function checkGithub(link) {
     }
 }
 
-/**
- * Fetch json file
- */
+// Fetch json file
 $.getJSON('USER.json', function (elements) {
     elements.forEach(function (nous, i) {
         document.getElementById('carousel-indicators').innerHTML += `
