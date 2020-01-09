@@ -1,117 +1,139 @@
-
 [
   {
     "name": "RAJERISON Julien",
     "image": "https://avatars1.githubusercontent.com/u/30557565",
     "message":"Ho feno fitahiana sy fahasoavana hoantsika rehetra anie ity taona {{YEAR}} ity",
-    "username": "julkwel"
+    "username": "julkwel",
+    "flag": "mg"
   },
   {
     "name": "Mamy RAOBY",
     "image": "https://avatars0.githubusercontent.com/u/20433600",
     "message": "Arahaba nahatratra ny taona vaovao indray. Ho taona zina ho antsika anie ny {{YEAR}} .",
-    "username": "MamyRaoby"
+    "username": "MamyRaoby",
+    "flag": "mg"
   },
   {
     "name": "RATOVOARISON Bruno Marcelino",
-    "image": "https://avatars2.githubusercontent.com/u/43740085"
+    "image": "https://avatars2.githubusercontent.com/u/43740085",
+    "flag": "mg"
   },
   {
     "name": "Chrys RAKOTONIMANANA",
-    "image": "https://avatars1.githubusercontent.com/u/30557565"
+    "image": "https://avatars1.githubusercontent.com/u/30557565",
+    "flag": "mg"
   },
   {
     "name": "RAKOTONDRATOMPO Bako Harry",
     "image": "https://avatars2.githubusercontent.com/u/17026924",
     "message" : "С новым годом {{YEAR}} ! ",
-    "username" : "harrylepap"
+    "username" : "harrylepap",
+    "flag": "mg"
   },
   {
     "name": "MIRAN SYLLA",
-    "image": "https://avatars1.githubusercontent.com/u/30557565"
+    "image": "https://avatars1.githubusercontent.com/u/30557565",
+    "flag": "mg"
   },
   {
     "name": "RAKOTONDRABE Ny Antso",
-    "image": "https://avatars1.githubusercontent.com/u/30557565"
+    "image": "https://avatars1.githubusercontent.com/u/30557565",
+    "flag": "mg"
   },
   {
     "name": "RANDRI Vony",
-    "image": "https://avatars0.githubusercontent.com/u/33556409"
+    "image": "https://avatars0.githubusercontent.com/u/33556409",
+    "flag": "mg"
   },
   {
     "name": "RAZAFINTSIALONINA Mamy",
-    "image": "https://avatars1.githubusercontent.com/u/30557565"
+    "image": "https://avatars1.githubusercontent.com/u/30557565",
+    "flag": "mg"
   },
   {
     "name": "Tsiry Sandratraina",
-    "image": "https://avatars1.githubusercontent.com/u/15877106"
+    "image": "https://avatars1.githubusercontent.com/u/15877106",
+    "flag": "mg"
   },
   {
     "name": "Tosoa BACCA",
     "image": "https://avatars2.githubusercontent.com/u/13227",
-    "message": "Tratry ny taona faha-{{YEAR}} daholo isika dia mirary soa e!"
+    "message": "Tratry ny taona faha-{{YEAR}} daholo isika dia mirary soa e!",
+    "flag": "mg"
   },
   {
     "name": "Riata watt",
     "image": "https://avatars2.githubusercontent.com/u/17161095",
-    "message": "tratry ny taona {{YEAR}} haha"
+    "message": "tratry ny taona {{YEAR}} haha",
+    "flag": "mg"
   },
   {
     "name": "ANDRAINIONY Herimanantsoa Fenohasina",
     "image":"https://avatars2.githubusercontent.com/u/36956938",
-    "message":"Mirary taona {{YEAR}} feno fahombiazana"
+    "message":"Mirary taona {{YEAR}} feno fahombiazana",
+    "flag": "mg"
   },
   {
     "name": "Eric RANDRIANARISOA",
-    "image": "https://avatars0.githubusercontent.com/u/27136558"
+    "image": "https://avatars0.githubusercontent.com/u/27136558",
+    "flag": "mg"
   },
   {
     "name": "Herizo RAMAROSON",
-    "image": "https://avatars2.githubusercontent.com/u/39248388"
+    "image": "https://avatars2.githubusercontent.com/u/39248388",
+    "flag": "mg"
   },
   {
     "name": "RAZAFINARIVO Hanania",
     "image": "https://avatars2.githubusercontent.com/u/24853543",
-    "message": "Arahabaina nahatratra ny taona {{YEAR}}. Mirary soa sy fahombiazana! :)"
+    "message": "Arahabaina nahatratra ny taona {{YEAR}}. Mirary soa sy fahombiazana! :)",
+    "flag": "mg"
   },
   {
     "name": "RAKOTONIRINA Rado Niaina",
     "username": "m0r7y",
-    "message": " <> Tratry ny taona {{YEAR}} </>."
+    "message": " <> Tratry ny taona {{YEAR}} </>.",
+    "flag": "mg"
   },
   {
     "name": "RAFALIARINTSOA Hajaniaina Marius",
     "username": "hajaniain",
     "image": "https://avatars0.githubusercontent.com/u/6097819?s=460&v=4",
-    "message": "Arahabaina e... {{YEAR}} indray izao!!! Mirary soa ho antsika rehetra"
+    "message": "Arahabaina e... {{YEAR}} indray izao!!! Mirary soa ho antsika rehetra",
+    "flag": "mg"
   },
   {
    "name": "RAKOTOARIMANANA Janny Michel",
    "username": "jmRakoto",
    "image": "  https://avatars0.githubusercontent.com/u/44327690",
-   "message": "Arahabaina nahatratra ny taona {{YEAR}} !"
+   "message": "Arahabaina nahatratra ny taona {{YEAR}} !",
+    "flag": "mg"
   },
   {
      "name": "ANDRIANJAKATIANA Odon Fidaulis",
      "username": "Fidaulis",
      "image": "https://avatars2.githubusercontent.com/u/21168538",
-     "message": "Arahabaina nahatratry ny taona {{YEAR}}. Dia Ho tahian'ANDRIAMANITRA e"
+     "message": "Arahabaina nahatratry ny taona {{YEAR}}. Dia Ho tahian'ANDRIAMANITRA e",
+    "flag": "mg"
   },
   {
      "name": "Jess Gabriel",
      "username": "RANDRIAMITSIRY",
      "image": "https://avatars2.githubusercontent.com/u/16187196",
-     "message": "Fiadanana hoan'ny Malagasy"
+     "message": "Fiadanana hoan'ny Malagasy",
+    "flag": "mg"
   },
   {
     "name":"R.AL",
     "username":"AbyssDS",
     "image": "https://avatars3.githubusercontent.com/u/36914316",
-    "message":"Miarahaba ny rehetra nahatratra inty taona vaovao inty, mba hitondra soa sy izay fa-nirina rehetra."
+    "message":"Miarahaba ny rehetra nahatratra inty taona vaovao inty, mba hitondra soa sy izay fa-nirina rehetra.",
+    "flag": "mg"
   },
   {
     "name": "RAZAFIMAHATRATRA Fanambinantsoa Christophe",
     "image":"https://avatars2.githubusercontent.com/u/4974131",
-    "message":"OHOOOOHO, {{YEAR}}, taona zina ho antsika rehetra e !"
+    "message":"OHOOOOHO, {{YEAR}}, taona zina ho antsika rehetra e !",
+    "flag": "mg"
   }
 ]

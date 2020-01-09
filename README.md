@@ -12,4 +12,6 @@ ___
 
 - Github url ```"username":"github_username"```
 
+- Flag : see [this link](http://flag-icon-css.lip.is/?continent=Africa) , eg: `mg` for Madagascar
+
 *Code for fun ;)* 

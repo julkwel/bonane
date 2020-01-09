@@ -40,11 +40,7 @@ document.title += ` ${gasyYear}`;
  * @returns {*}
  */
 function formatMessage(message) {
-    if (message) {
-        return message.replace('{{YEAR}}', gasyYear)
-    } else {
-        return `Bonne année ${gasyYear} !`
-    }
+    return message ? message.replace('{{YEAR}}', gasyYear) : `Bonne année ${gasyYear} !`;
 }
 
 /**
@@ -52,7 +48,7 @@ function formatMessage(message) {
  *
  * @param i
  *
- * @returns {string}
+ * @returns string
  */
 function isActive(i) {
     return i === 0 ? 'active' : ''
@@ -63,14 +59,10 @@ function isActive(i) {
  *
  * @param image
  *
- * @returns {*}
+ * @returns string
  */
 function checkImage(image) {
-    if (image) {
-        return image;
-    } else {
-        return 'https://avatars1.githubusercontent.com/u/30557565';
-    }
+    return image ? image : 'https://avatars1.githubusercontent.com/u/30557565';
 }
 
 /**
@@ -78,14 +70,10 @@ function checkImage(image) {
  *
  * @param nous
  *
- * @returns {*}
+ * @returns string
  */
 function checkName(nous) {
-    if (nous) {
-        return nous;
-    } else {
-        return 'From Madagascar';
-    }
+    return nous ? nous : 'From Madagascar';
 }
 
 /**
@@ -93,14 +81,10 @@ function checkName(nous) {
  *
  * @param link
  *
- * @returns {*}
+ * @returns string
  */
 function checkGithub(link) {
-    if (link) {
-        return baseUrl + link;
-    } else {
-        return 'https://github.com/';
-    }
+    return link ? (baseUrl + link) : 'https://github.com/';
 }
 
 // Fetch json file
@@ -124,7 +108,10 @@ $.getJSON('USER.json', function (elements) {
                                 <small>
                                     ${checkName(nous.name)}
                                     <a href="${checkGithub(nous.username)}" target="_blank" 
-                                    style="color: #f9f9f9;margin: 5px"><i class="fa fa-github"></i></a>
+                                    style="color: #f9f9f9;margin: 5px">
+                                    <i class="fa fa-github"></i>
+                                    <i class="flag-icon flag-icon-${nous.flag ? nous.flag : "mg"}"></i>
+                                    </a>
                                 </small>
                             </div>
                         </div>
