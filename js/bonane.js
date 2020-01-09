@@ -62,7 +62,7 @@ function isActive(i) {
  * @returns string
  */
 function checkImage(image) {
-    return image ? image : 'https://avatars1.githubusercontent.com/u/30557565';
+    return image ? image : 'https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png';
 }
 
 /**
