@@ -168,3 +168,10 @@ Carroussel css
     top: 0;
     left: 0;
 }
+
+.github-link{
+    color: white;
+    right: 10px;
+    position: absolute;
+    top: 10px;
+}
