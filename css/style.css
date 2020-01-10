@@ -9,6 +9,8 @@ body {
 canvas {
     cursor: crosshair;
     display: block;
+    position:relative;
+    z-index: 99;
 }
 
 .text {
