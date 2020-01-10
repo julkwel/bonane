@@ -142,4 +142,10 @@
     "message":"Manao ahoana tompoko ô. Miarahaba antsika nahatratra ny taona vaovao {{YEAR}}. Dia enga anie samy hahazo 20/20 daholo e.",
     "flag": "mg"
   }
+  {
+    "name": "FANOMEZANIRINA Fenohery",
+    "image":"https://avatars3.githubusercontent.com/u/34170795",
+    "message":"Miarahaba antsika rehetra nahatratra ity taona , {{YEAR}}, mirary soa sy fahombiazana be ho antsika.",
+    "flag": "mg"
+  }
 ]
