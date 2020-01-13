@@ -14,4 +14,11 @@ ___
 
 - Flag : see [this link](http://flag-icon-css.lip.is/?continent=Africa) , eg: `mg` for Madagascar
 
-*Code for fun ;)* 
+___
+
+## FEATURE
+
+1. Translation
+
+
+*Code for fun :blush:* 
