@@ -1,8 +1,12 @@
+/**
+*RAJERISON Julien 01 Janvier 2019
+*/
+
 /* Global $ (https://standardjs.com)
 
-// RAJERISON Julien 01 Janvier 2019
-
-// Init carousel
+/**
+* Init carousel
+*/
 $(document).ready(function () {
     $('#quote-carousel').carousel({
         pause: true,
@@ -11,21 +15,21 @@ $(document).ready(function () {
 });
 
 /**
- * Github base_url
+ * Github base_url for user github profile
  *
  * @type {string}
  */
 const baseUrl = 'https://github.com/';
 
 /**
- * Get date
+ * Get last year
  *
  * @type {number}
  */
 let gasyYear = new Date().getFullYear();
 
 /**
- * Query html selector add date
+ * Set date inside html page
  *
  * @type {number}
  */
@@ -33,20 +37,20 @@ document.querySelector('#year').innerText = gasyYear;
 document.title += ` ${gasyYear}`;
 
 /**
- * Prevent message on null, undefined, '', 0, NaN, false
+ * Format the user message
  *
- * @param message
+ * @param {string} message
  *
- * @returns {*}
+ * @returns {string}
  */
 function formatMessage(message) {
     return message ? message.replace('{{YEAR}}', gasyYear) : `Bonne année ${gasyYear} !`;
 }
 
 /**
- * Check slide active
+ * Check slide active by key i
  *
- * @param i
+ * @param number i
  *
  * @returns string
  */
@@ -55,29 +59,29 @@ function isActive(i) {
 }
 
 /**
- * Prevent image on null, undefined, '', 0, NaN, false
+ * Check the user image and change if not exist
  *
- * @param image
+ * @param {string} image filename
  *
- * @returns string
+ * @returns {string}
  */
 function checkImage(image) {
     return image ? image : 'https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png';
 }
 
 /**
- * Prevent image on null, undefined, '', 0, NaN, false
+ * Check the username
  *
- * @param nous
+ * @param {string} name
  *
- * @returns string
+ * @returns {string}
  */
-function checkName(nous) {
-    return nous ? nous : 'From Madagascar';
+function checkName(name) {
+    return name ? name : 'From Madagascar';
 }
 
 /**
- * Check github link
+ * Check user github link
  *
  * @param link
  *
