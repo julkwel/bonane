@@ -1,6 +1,6 @@
 ## Happy new year message.
 
-Want to whish ?
+Want to wish ?
 
 Go to USER.json, follow the structure, and that's it.
 ___
@@ -8,7 +8,7 @@ ___
 
 - Your image link, (like fb profile, ... , preference github image link) ```"image":"image_link"```
 
-- Your whishes ```"message":"your_message"```
+- Your wishes ```"message":"your_message"```
 
 - Github url ```"username":"github_username"```
 
