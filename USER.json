@@ -1,12 +1,5 @@
 [
   {
-    "name": "MIHARISOA Tojoniaina Patrick",
-    "image": "https://avatars0.githubusercontent.com/u/55443338",
-    "message": "{{YEAR}}, ho taona lavitry ny aretina anie, ary ahitan'ny tsirairay fahombiazana. ",
-    "username": "acf-patrick",
-    "flag": "mg"
-  }
-  {
     "name": "RAJERISON Julien",
     "image": "https://avatars1.githubusercontent.com/u/30557565",
     "message":"Ho feno fitahiana sy fahasoavana hoantsika rehetra anie ity taona {{YEAR}} ity",
@@ -200,6 +193,13 @@
     "image": "https://avatars0.githubusercontent.com/u/40687899",
     "message": "Mirary fahombiazana ho antsika rehetra mandritra ity taona {{YEAR}} ity. Ho lavitry ny ratsy rehetra ;) ",
     "username": "Fahtialalaina",
+    "flag": "mg"
+  }
+  {
+    "name": "MIHARISOA Tojoniaina Patrick",
+    "image": "https://avatars0.githubusercontent.com/u/55443338",
+    "message": "{{YEAR}}, ho taona lavitry ny aretina anie, ary mirary ny ahitan'ny tsirairay fahombiazana",
+    "username": "acf-patrick",
     "flag": "mg"
   }
 ]
