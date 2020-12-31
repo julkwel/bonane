@@ -194,5 +194,12 @@
     "message": "Mirary fahombiazana ho antsika rehetra mandritra ity taona {{YEAR}} ity. Ho lavitry ny ratsy rehetra ;) ",
     "username": "Fahtialalaina",
     "flag": "mg"
+  },
+  {
+    "name" : "Hernaval RANARIVOLA",
+    "image" : "https://avatars3.githubusercontent.com/u/51748115",
+    "message" : "Mba ho taom-pahombiazana sy firasan-kina ho antsika anie ity {{YEAR}} ity. Ho ela veloma ny DEV MALAGASY !!!",
+    "username" :"hernaval",
+    "flag" : "mg"
   }
 ]
