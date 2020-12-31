@@ -1,17 +1,17 @@
-/**
-*RAJERISON Julien 01 Janvier 2019
-*/
-
-/* Global $ (https://standardjs.com)
+/* Main bonane JS */
 
 /**
-* Init carousel
-*/
-$(document).ready(function () {
+ * launch carousel
+ */
+function launchCarousel(){
     $('#quote-carousel').carousel({
         pause: true,
         interval: 4000,
     });
+}
+
+$(document).ready(function () {
+    launchCarousel();
 });
 
 /**
@@ -34,7 +34,7 @@ let gasyYear = new Date().getFullYear();
  * @type {number}
  */
 document.querySelector('#year').innerText = gasyYear;
-document.title += ` ${gasyYear}`;
+document.title += gasyYear;
 
 /**
  * Format the user message
@@ -50,9 +50,9 @@ function formatMessage(message) {
 /**
  * Check slide active by key i
  *
- * @param number i
+ * @param {number} i
  *
- * @returns string
+ * @returns {string}
  */
 function isActive(i) {
     return i === 0 ? 'active' : ''
@@ -66,7 +66,7 @@ function isActive(i) {
  * @returns {string}
  */
 function checkImage(image) {
-    return image ? image : 'https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png';
+    return image ?? 'https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png';
 }
 
 /**
@@ -77,7 +77,7 @@ function checkImage(image) {
  * @returns {string}
  */
 function checkName(name) {
-    return name ? name : 'From Madagascar';
+    return name ?? 'From Madagascar';
 }
 
 /**
@@ -85,10 +85,20 @@ function checkName(name) {
  *
  * @param link
  *
- * @returns string
+ * @returns {string}
  */
 function checkGithub(link) {
     return link ? (baseUrl + link) : 'https://github.com/';
+}
+
+/**
+ *
+ * @param nous {$ObjMap}
+ *
+ * @returns {string}
+ */
+function getFlag(nous) {
+    return nous.flag ?? 'mg';
 }
 
 // Fetch json file
@@ -114,7 +124,7 @@ $.getJSON('USER.json', function (elements) {
                                     <a href="${checkGithub(nous.username)}" target="_blank" 
                                     style="color: #f9f9f9;margin: 5px">
                                     <i class="fa fa-github"></i>
-                                    <i class="flag-icon flag-icon-${nous.flag ? nous.flag : "mg"}"></i>
+                                    <i class="flag-icon flag-icon-${getFlag(nous)}"></i>
                                     </a>
                                 </small>
                             </div>
