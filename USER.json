@@ -168,17 +168,24 @@
     "flag": "mg"
   },
   {
-    "name": "Fandresena TIALALAINA",
-    "image": "https://avatars0.githubusercontent.com/u/40687899",
-    "message": "Mirary fahombiazana ho antsika rehetra mandritra ity taona {{YEAR}} ity. Ho lavitry ny ratsy rehetra ;) ",
-    "username": "Fahtialalaina",
-    "flag": "mg"
-  },
-  {
     "name": "liva Ramarolahy",
     "username": "liviathan",
     "image":"https://avatars0.githubusercontent.com/u/65889112",
     "message":"Mirary taona {{YEAR}} feno fahombiazana. Sawadee Pee Mai",
     "flag": "th"
+  },
+  {
+    "name": "Toky RATOLOJANAHARY",
+    "username": "tokyRT",
+    "image":"https://avatars2.githubusercontent.com/u/57077076?s=460&u=5ffe15c9d948044531e45f9822d6f58b1ac90502&v=4",
+    "message":"Miarahaba antsika nahatratra an'ity taona {{YEAR}} ity ",
+    "flag": "mg"
+  },
+  {
+    "name": "Fandresena TIALALAINA",
+    "image": "https://avatars0.githubusercontent.com/u/40687899",
+    "message": "Mirary fahombiazana ho antsika rehetra mandritra ity taona {{YEAR}} ity. Ho lavitry ny ratsy rehetra ;) ",
+    "username": "Fahtialalaina",
+    "flag": "mg"
   }
 ]
