@@ -1,12 +1,12 @@
 ## Happy new year message.
 
-You want to whish ?
+Want to whish ?
 
-Go to USER.json add your whishes , follow the structure.
+Go to USER.json, follow the structure, and that's it.
 ___
 - Your name ```"name":"julkwel"```
 
-- Your image , (please add github image link) ```"image":"github_image_link"```
+- Your image link, (like fb profile, ... , preference github image link) ```"image":"image_link"```
 
 - Your whishes ```"message":"your_message"```
 
