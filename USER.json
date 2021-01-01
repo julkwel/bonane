@@ -194,5 +194,26 @@
     "message": "Mirary fahombiazana ho antsika rehetra mandritra ity taona {{YEAR}} ity. Ho lavitry ny ratsy rehetra ;) ",
     "username": "Fahtialalaina",
     "flag": "mg"
+  },
+  {
+    "name" : "Hernaval RANARIVOLA",
+    "image" : "https://avatars3.githubusercontent.com/u/51748115",
+    "message" : "Mba ho taom-pahombiazana sy firasan-kina ho antsika anie ity {{YEAR}} ity. Ho ela veloma ny DEV MALAGASY !!!",
+    "username" :"hernaval",
+    "flag" : "mg"
+  },
+  {
+    "name": "MIHARISOA Tojoniaina Patrick",
+    "image": "https://avatars0.githubusercontent.com/u/55443338",
+    "message": "{{YEAR}}, ho taona lavitry ny aretina anie, ary mirary ny ahitan'ny tsirairay fahombiazana",
+    "username": "acf-patrick",
+    "flag": "mg"
+  },
+  {
+    "name": "VALISOA Herimalala",
+    "image": "https://avatars0.githubusercontent.com/u/51641926",
+    "message": "Mirary taona zina anaty fahasalamana hoan'ny rehetra amin'ity taona {{YEAR}} ity",
+    "username": "herival",
+    "flag": "mg"
   }
 ]
