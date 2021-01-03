@@ -34,7 +34,7 @@ let gasyYear = new Date().getFullYear();
  * @type {number}
  */
 document.querySelector('#year').innerText = gasyYear;
-document.title += `| ${gasyYear}`;
+document.title += ` | ${gasyYear}`;
 
 /**
  * Format the user message
