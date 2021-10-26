@@ -235,5 +235,12 @@
     "message":"Miarahaba sy mirary soa ho antsika nahatratra an'ity taona {{YEAR}} ity",
     "username": "sedera-tax",
     "flag": "mg"
+  },
+  {
+    "name": "RANDRIANASOLO Tsiry Ny Aina",
+    "image": "https://avatars.githubusercontent.com/u/88887401?v=4",
+    "message":"Miarahaba sy mirary ny soa sy ny tsara indrindra hoantsika rehetra ho an'ity taona {{YEAR}} ity",
+    "username": "nyainaatsayna",
+    "flag": "mg"
   }
 ]
