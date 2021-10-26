@@ -37,7 +37,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 
-##Want to wish ? :tada:
+## Want to wish ? :tada:
 
 Go to USER.json, follow the structure, and that's it.
 ___
