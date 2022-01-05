@@ -274,14 +274,21 @@
     "name": "H.Mandranto",
     "username": "Ralaitsirava",
     "image": "https://avatars.githubusercontent.com/u/91875684?v=4",
-    "massage": "Bonne Annee {{YEAR}} tout le monde !!!",
+    "message": "Bonne Annee {{YEAR}} tout le monde !!!",
     "flag": "mg"
   },
   {
     "name": "TENARIVOSON Jhon Edelph",
     "username": "Jhon Edelph",
     "image": "https://avatars.githubusercontent.com/u/66465744?s=400&u=f927f881020c4c4398dc01d26e34fa445a703d46&v=4",
-    "massage": "Mirary soa ho atsika rehetra ooooooh!!!",
+    "message": "Mirary soa ho atsika rehetra ooooooh!!!",
+    "flag": "mg"
+  },
+  {
+    "name": "RANDRIAMANALINA Harimampionona Jennica",
+    "username": "JennicaRandriamanalina",
+    "image": "https://avatars.githubusercontent.com/u/72994396?s=400&u=d2f08db1a08ab0b68770f9bf89d1940adcc99968&v=4",
+    "message": "Miarahaba antsika rehetra nahatratra ity taona {{YEAR}} ity!! Mirary soa ooh ",
     "flag": "mg"
   }
 ]
