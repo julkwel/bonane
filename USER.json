@@ -241,6 +241,9 @@
     "image": "https://avatars.githubusercontent.com/u/67324821?v=4",
     "message":"Arabaina tratry {{YEAR}} ianao x3 ry akama à.",
     "username": "fullfifax",
+    "flag":"mg"
+  },
+  {
     "name": "RANDRIANASOLO Tsiry Ny Aina",
     "image": "https://avatars.githubusercontent.com/u/88887401?v=4",
     "message": "Miarahaba sy mirary ny soa sy ny tsara indrindra hoantsika rehetra ho an'ity taona {{YEAR}} ity",
@@ -308,6 +311,13 @@
     "image": "https://avatars.githubusercontent.com/u/58026146?s=400&u=e761fdb15aaea54f75a78cc47a8058a3ed50f7dd&v=4",
     "flag": "mg",
     "message": "Hanambina antsika rehetra anie ity taona {{YEAR}} ity e !"
+  },
+  {
+    "name": "RANDRIAMANANTENA Luca Zo Haingo",
+    "username":"LucaZH",
+    "image": "https://avatars.githubusercontent.com/u/93754593?s=400&u=9ab6d0db447762b47b4fd27b512d0fc6f851a9b3&v=4",
+    "message": "Mirary soa sy fahombiazana ho antsika rehetra amin'ity taona {{YEAR}} ity e !",
+    "flag": "mg"
   },
   {
     "name": "RAJOELISON Aina Tiavina",
