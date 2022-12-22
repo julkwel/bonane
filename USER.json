@@ -239,9 +239,9 @@
   {
     "name": "RAFANOMEZANTSOA Fenofifaliana",
     "image": "https://avatars.githubusercontent.com/u/67324821?v=4",
-    "message":"Arabaina tratry {{YEAR}} ianao x3 ry akama à.",
+    "message": "Arabaina tratry {{YEAR}} ianao x3 ry akama à.",
     "username": "fullfifax",
-    "flag":"mg"
+    "flag": "mg"
   },
   {
     "name": "RANDRIANASOLO Tsiry Ny Aina",
@@ -259,7 +259,7 @@
   {
     "name": "RAMBELOSON Tiana",
     "image": "https://avatars.githubusercontent.com/rmanantsoa",
-    "message":"Tratry ny taona e! miarahaba anao nahatratra an'ity taona {{YEAR}} ity, mazotoa manao code ho taona lavitry ny bugg",
+    "message": "Tratry ny taona e! miarahaba anao nahatratra an'ity taona {{YEAR}} ity, mazotoa manao code ho taona lavitry ny bugg",
     "username": "rmanantsoa",
     "flag": "mg"
   },
@@ -307,23 +307,30 @@
   },
   {
     "name": "RAKOTONDRAMANANA Leonardo",
-    "username":"leorak98",
+    "username": "leorak98",
     "image": "https://avatars.githubusercontent.com/u/58026146?s=400&u=e761fdb15aaea54f75a78cc47a8058a3ed50f7dd&v=4",
     "flag": "mg",
     "message": "Hanambina antsika rehetra anie ity taona {{YEAR}} ity e !"
   },
   {
     "name": "RANDRIAMANANTENA Luca Zo Haingo",
-    "username":"LucaZH",
+    "username": "LucaZH",
     "image": "https://avatars.githubusercontent.com/u/93754593?s=400&u=9ab6d0db447762b47b4fd27b512d0fc6f851a9b3&v=4",
     "message": "Mirary soa sy fahombiazana ho antsika rehetra amin'ity taona {{YEAR}} ity e !",
     "flag": "mg"
   },
   {
     "name": "RAJOELISON Aina Tiavina",
-    "username":"Poseidon1402",
+    "username": "Poseidon1402",
     "image": "https://avatars.githubusercontent.com/u/82655694?v=4",
     "flag": "mg",
     "message": "Ho taona zina sy feno fahasoavana ho antsika rehetra anie ity taona {{YEAR}} ity !"
+  },
+  {
+    "name": "Andrianina Rakotoarisoa",
+    "image": "https://avatars.githubusercontent.com/u/24601597?v=4",
+    "message": "海賊の王様になるんだ Dattebayo!!!.",
+    "username": "AndrianinaH",
+    "flag": "mg"
   }
 ]
