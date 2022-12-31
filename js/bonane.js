@@ -6,7 +6,7 @@
 function launchCarousel(){
     $('#quote-carousel').carousel({
         pause: true,
-        interval: 4000,
+        interval: 3000,
     });
 }
 
