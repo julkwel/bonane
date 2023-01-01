@@ -343,7 +343,7 @@
   {
     "name": "Arnaud Adjovi",
     "image": "https://avatars.githubusercontent.com/ArnaudAploon",
-    "message": "Bonne et heureuse année {{YEAR}} à tous ! 'Moins de bugs dans nos codes ;)",
+    "message": "Bonne et heureuse année {{YEAR}} à tous ! <b>Moins de bugs dans nos codes ;)</b>",
     "username": "ArnaudAploon",
     "flag": "bj"
   }
