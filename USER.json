@@ -339,6 +339,13 @@
     "message": "Miarahaba antsika rehetra nahatratra ity taona {{YEAR}}",
     "username": "Lacoste27",
     "flag": "mg"
+  },
+  {
+    "name": "Arnaud Adjovi",
+    "image": "https://avatars.githubusercontent.com/ArnaudAploon",
+    "message": "Bonne et heureuse année {{YEAR}} à tous ! <i>Moins de bugs dans nos codes ;).</i>",
+    "username": "ArnaudAploon",
+    "flag": "bj"
   }, 
   {
     "name": "Tambatra Natolojanahary",
