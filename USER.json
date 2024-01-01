@@ -374,5 +374,12 @@
     "message": "Happy new year {{YEAR}} and happy coding everyone :D",
     "username": "tsitouw",
     "flag": "mg"
+  },
+  {
+    "name": "Ranaivoson Onitsiky",
+    "image": "https://avatars.githubusercontent.com/u/98632897?s=96&v=4",
+    "message": "Heureuse années {{YEAR}} à toutes et à tous, puis bienvenue aux nouveaux bugs XD !! Cheers !!",
+    "username": "Onitsiky",
+    "flag": "mg"
   }
 ]
