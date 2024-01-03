@@ -346,7 +346,7 @@
     "message": "Bonne et heureuse année {{YEAR}} à tous ! <i>Moins de bugs dans nos codes ;).</i>",
     "username": "ArnaudAploon",
     "flag": "bj"
-  }, 
+  },
   {
     "name": "Tambatra Natolojanahary",
     "image": "https://avatars.githubusercontent.com/u/110980635?v=4",
@@ -360,7 +360,7 @@
     "message": "Bonne et heureuse année {{YEAR}} à tous ! Que vos projets personnels et professionnels soient couronnés de succès, et que chaque journée soit une opportunité de croissance et d'épanouissement. ",
     "username": "stephancj",
     "flag": "mg"
-  }, 
+  },
   {
     "name": "Andriniaina Fabien",
     "image": "https://avatars.githubusercontent.com/u/01KingMaker",
@@ -383,17 +383,24 @@
     "flag": "mg"
   },
   {
-    "name":"Laza",
-    "image":"https://avatars.githubusercontent.com/u/97720707?v=4",
-    "message":"</> Arabaina isika rehetra nahatratra ity taona {{YEAR}} ity.Mirary an-tsika rehetra hidebug tsara @ty taona ity🙂.",
-    "username":"laza-niaina",
-    "flag":"mg"
+    "name": "Laza",
+    "image": "https://avatars.githubusercontent.com/u/97720707?v=4",
+    "message": "</> Arabaina isika rehetra nahatratra ity taona {{YEAR}} ity.Mirary an-tsika rehetra hidebug tsara @ty taona ity🙂.",
+    "username": "laza-niaina",
+    "flag": "mg"
   },
   {
     "name": "Ranaivoson Onitsiky",
     "image": "https://avatars.githubusercontent.com/u/98632897?s=96&v=4",
     "message": "Heureuse années {{YEAR}} à toutes et à tous, puis bienvenue aux nouveaux bugs XD !! Cheers !!",
     "username": "Onitsiky",
+    "flag": "mg"
+  },
+  {
+    "name": "ANDRIAMILANTO Mihary Joel",
+    "image": "https://avatars.githubusercontent.com/u/72041096?v=4",
+    "message": "May your code be bug-free, your pull requests swiftly approved, and may every line you write bring joy to users. May your debugging sessions be short and your coffee be strong. Happy New Year {{YEAR}} to a year filled with clean code, efficient algorithms, and boundless innovation ",
+    "username": "miharyjoe",
     "flag": "mg"
   }
 ]
