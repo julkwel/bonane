@@ -444,5 +444,12 @@
     "image": "https://avatars.githubusercontent.com/u/67300916?s=400&u=eedc7ed2bc876a6156698d4f4c61225d5da0f300&v=4",
     "message": "New year, new adventure! This {{YEAR}}, let's stay far away from bugs! 😊. Shurorororo",
     "flag": "mg"
-  }
+  },
+  {
+      "name": "Stéphane CHAN",
+      "username":"chan-stephane",
+      "image": "https://avatars.githubusercontent.com/u/82095196?v=4",
+      "message": "Happy new year {{YEAR}} all 🎉🎉",
+      "flag":"mg"
+    }
 ]
