@@ -433,9 +433,16 @@
   },
   {
     "name": "Andry Nirina ANDRIANARISON",
-    "username":"Andry0-Id"
+    "username":"Andry0-Id",
     "image": "https://avatars.githubusercontent.com/u/63411695?s=96&v=4",
     "message": "Mirary soa ho antsika rehetra eee, {{YEAR}} mbola tsy hay ny hambadika amaray xD",
+    "flag":"mg"
+  },
+{
+    "name": "Stéphane CHAN",
+    "username":"chan-stephane",
+    "image": "https://avatars.githubusercontent.com/u/82095196?v=4",
+    "message": "Happy new year {{YEAR}} all 🎉🎉",
     "flag":"mg"
   },
 ]
